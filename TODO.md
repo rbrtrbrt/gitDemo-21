@@ -1,3 +1,3 @@
 # TODO
 
-* SoH schrijven
+* SoH schrijven voor woensdag
